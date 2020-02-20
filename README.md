@@ -1,4 +1,4 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/Awandor/draw-element)
+google-sign upgraded from polymer 0.5 to polymer 3.0.
 
 # \<draw-element\>
 
